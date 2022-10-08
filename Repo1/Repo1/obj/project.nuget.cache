@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruw0Ucjso49DP700uK1/Y+ovaMOBCtYmK1U6sLo4mzJ7wqO3z2RppOAqhTmIYGRoJz+GkowSQnZtgAUrGbgp1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pibo0121030\\Desktop\\Repo1\\Repo1\\Repo1\\Repo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pibo0121030\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

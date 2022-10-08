@@ -1,0 +1,14 @@
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\bin\Debug\netcoreapp3.1\Repo1.exe
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\bin\Debug\netcoreapp3.1\Repo1.deps.json
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\bin\Debug\netcoreapp3.1\Repo1.runtimeconfig.json
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\bin\Debug\netcoreapp3.1\Repo1.runtimeconfig.dev.json
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\bin\Debug\netcoreapp3.1\Repo1.dll
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\bin\Debug\netcoreapp3.1\Repo1.pdb
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.csproj.AssemblyReference.cache
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.AssemblyInfoInputs.cache
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.AssemblyInfo.cs
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.csproj.CoreCompileInputs.cache
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.dll
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.pdb
+C:\Users\pibo0121030\Desktop\Repo1\Repo1\Repo1\obj\Debug\netcoreapp3.1\Repo1.genruntimeconfig.cache
